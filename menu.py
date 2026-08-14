@@ -24,3 +24,9 @@ def menu():
         numero2 = float(input("Digite o segundo número: "))
         resultado = numero1 * numero2
         print("Resultado:", resultado)
+
+    elif opcao == "4":
+        numero1 = float(input("Digite o primeiro número: "))
+        numero2 = float(input("Digite o segundo número: "))
+        resultado = numero1 / numero2
+        print("Resultado:", resultado)
