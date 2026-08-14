@@ -30,3 +30,5 @@ def menu():
         numero2 = float(input("Digite o segundo número: "))
         resultado = numero1 / numero2
         print("Resultado:", resultado)
+
+menu()
